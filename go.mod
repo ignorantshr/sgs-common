@@ -1,3 +1,3 @@
-module github.com/ignorantshr/sgs_common
+module github.com/ignorantshr/sgs-common
 
 go 1.17
