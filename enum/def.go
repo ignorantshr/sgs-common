@@ -21,4 +21,5 @@ type GameType int
 
 const (
 	GameType5Man GameType = iota
+	GameType2Man
 )
